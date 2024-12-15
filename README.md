@@ -1,14 +1,15 @@
-## Hi there 👋
+## Hi there 👋 
+### I'm Maria, an Informatics and Computer Engineering student at FEUP. 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajvieira&layout=pie)](https://github.com/mariajvieira/github-readme-stats&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariajvieira&layout=donut)](https://github.com/mariajvieira/github-readme-stats&size_weight=0.5&count_weight=0.5)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mariajvieira)](https://github.com/mariajvieira/github-readme-stats)
 
 <!--
 
 ESTATISTICAS:  ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariajvieira&hide=stars,prs,issues&show_icons=true&theme=synthwave)
+WAKA TIME: [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mariajvieira)](https://github.com/mariajvieira/github-readme-stats)
 
 **mariajvieira/mariajvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
