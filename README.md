@@ -8,6 +8,7 @@
 
 | Project              | Description                                         | 
 |----------------------------|-----------------------------------------------------|
+| [Connectify](https://github.com/mariajvieira/feup-lbaw-connectify) | A social networking web application built with Laravel, designed to foster connections and interactions among users. The project features dynamic posts, user reactions, and an intuitive interface. |
 | [Shortest Path Calculation](https://github.com/mariajvieira/feup-pfl-proj1) | Haskell project that implements algorithms for calculating the shortest path between cities in a roadmap, utilizing breadth-first search (BFS) and various data structures to efficiently find the shortest routes. |
 | [Data Link Protocol](https://github.com/mariajvieira/feup-rcom-proj1) | C project that implements a data link layer protocol to enable reliable file transfer over an RS-232 serial connection. |
 | [CleanItUP](https://github.com/mariajvieira/feup-esof-CleanItUP) | CleanItUP is a sustainability-focused application designed to promote eco-friendly habits through gamification, community engagement, and accessible recycling information
