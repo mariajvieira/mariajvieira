@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### I'm Maria, an Informatics and Computer Engineering student at FEUP. 
+### I'm Maria, a Master's student in Software Engineering at FEUP. 
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajvieira&layout=compact&langs_count=7&theme=dracula"/>   
