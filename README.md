@@ -38,6 +38,7 @@
 | [EliteFinds](https://github.com/mariajvieira/feup-ltw-EliteFinds) | EliteFinds is a PHP-based web application that serves as a marketplace for luxury second-hand goods, connecting buyers and sellers in an elegant and secure platform. | Spring 23/24|
 | [SVG to PNG Image Converter](https://github.com/mariajvieira/feup-prog)  | C++ project that implements a solution for converting SVG vector graphics into PNG images, utilizing object-oriented design to manage SVG elements and their transformations.| Spring 23/24|
 | [Super Mario Game](https://github.com/mariajvieira/feup-ldts-SuperMario) | A 2D Super Mario-inspired game developed in Java, featuring linked menus, player controls, collision detection, and interactive elements such as Mystery Blocks, monsters, and obstacles. The goal is to reach the flag while overcoming challenges. | Winter 23/24|
+| [Schedule Management System](https://github.com/mariajvieira/feup-aed-proj1) | Project that parses a schedules dataset from CSV files and supports efficient queries/operations over the timetable data using appropriate data structures and algorithms. | Winter 23/24|
 
 
 
