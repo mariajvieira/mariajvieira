@@ -9,6 +9,7 @@
 | Project              | Description                                         | Date |
 |----------------------------|-----------------------------------------------------|-|
 | [Snake Game](https://github.com/mariajvieira/feup-lcom) |  Interactive Snake game for the FEUP LCOM/Minix environment, showcasing low-level device programming (timer, keyboard, mouse, and VBE graphics) with an interrupt-driven game loop, graphical UI, and multiple difficulty levels. | Spring 24/25 |
+| [Compiler](https://github.com/mariajvieira/feup-compilers) | Java-- compiler project for FEUP COMP2025, implementing the full pipeline from parsing and semantic analysis to OLLIR optimizations and Jasmin/JVM bytecode generation. | Spring 24/25 |
 | [Connectify](https://github.com/mariajvieira/feup-lbaw-connectify) | A social networking web application built with Laravel, designed to foster connections and interactions among users. The project features dynamic posts, user reactions, and an intuitive interface. | Winter 24/25 |
 | [Line of Three (LOT) Game](https://github.com/mariajvieira/feup-pfl-proj2) | Prolog implementation of the Line of Three (LoT) board game, featuring Human vs Human, Human vs AI, and AI vs AI modes with multiple difficulty levels. | Winter 24/25 |
 | [Shortest Path Calculation](https://github.com/mariajvieira/feup-pfl-proj1) | Haskell project that implements algorithms for calculating the shortest path between cities in a roadmap, utilizing breadth-first search (BFS) and various data structures to efficiently find the shortest routes. | Winter 24/25 |
