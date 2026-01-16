@@ -2,9 +2,9 @@
 ### I'm Maria, a Master's student in Software Engineering at FEUP. 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/a<img height="180em"
+<img height="180em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajvieira&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400&v=1"/>
-pi/top-langs/?username=mariajvieira&layout=compact&langs_count=7&theme=dracula"/>   
+
 
 ### 📄 My Projects
 
