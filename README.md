@@ -10,6 +10,8 @@
 
 | Project              | Description                                         | Date |
 |----------------------------|-----------------------------------------------------|-|
+| [Cake Sort Puzzle Game](https://github.com/mariajvieira/feup-ia-CakeSortPuzzle) |  Pygame-based puzzle game where players sort cake slices on plates to complete full cakes, featuring an MVC architecture, multiple levels, scoring, and AI search solvers (BFS/DFS/IDS/UCS).| Spring 24/25 |
+| [Bank Churn Dataset](https://github.com/mariajvieira/feup-ia-BankChurnDataset) | Bank churn prediction project benchmarking Logistic Regression, Random Forest, and Gradient Boosting for binary classification, with evaluation metrics, learning curves, and runtime comparison in a Jupyter notebook. | Spring 24/25 |
 | [Snake Game](https://github.com/mariajvieira/feup-lcom) |  Interactive Snake game for the FEUP LCOM/Minix environment, showcasing low-level device programming (timer, keyboard, mouse, and VBE graphics) with an interrupt-driven game loop, graphical UI, and multiple difficulty levels. | Spring 24/25 |
 | [Computer Graphics](https://github.com/mariajvieira/feup-cg) |  Interactive 3D firefighting scene project developed across multiple CG practicals, featuring a panorama sky-sphere, textured terrain/buildings/forest, a user-controlled animated helicopter with water/fire mechanics, and shader-based effects. | Spring 24/25 |
 | [Compiler](https://github.com/mariajvieira/feup-compilers) | Java-- compiler project for FEUP COMP2025, implementing the full pipeline from parsing and semantic analysis to OLLIR optimizations and Jasmin/JVM bytecode generation. | Spring 24/25 |
