@@ -6,17 +6,17 @@
 
 ### 📄 My Projects
 
-| Project              | Description                                         | 
-|----------------------------|-----------------------------------------------------|
-| [Connectify](https://github.com/mariajvieira/feup-lbaw-connectify) | A social networking web application built with Laravel, designed to foster connections and interactions among users. The project features dynamic posts, user reactions, and an intuitive interface. |
-| [Shortest Path Calculation](https://github.com/mariajvieira/feup-pfl-proj1) | Haskell project that implements algorithms for calculating the shortest path between cities in a roadmap, utilizing breadth-first search (BFS) and various data structures to efficiently find the shortest routes. |
-| [Data Link Protocol](https://github.com/mariajvieira/feup-rcom-proj1) | C project that implements a data link layer protocol to enable reliable file transfer over an RS-232 serial connection. |
-| [CleanItUP](https://github.com/mariajvieira/feup-esof-CleanItUP) | CleanItUP is a sustainability-focused application designed to promote eco-friendly habits through gamification, community engagement, and accessible recycling information
-| [Traveling Salesman Problem Solutions](https://github.com/mariajvieira/feup-da-proj2) | C++ project that implements algorithms for solving the Traveling Salesman Problem (TSP) in various shipping and delivery scenarios, utilizing both exact and heuristic approaches to find efficient routes for urban and ocean deliveries. |
-| [Water Network Resource Optimization](https://github.com/mariajvieira/feup-da-proj1) | C++ implementation of a tool for analyzing and optimizing the allocation of resources in a water supply network in Portugal, using a greedy algorithm approach to solve maximum-flow problems. |
-| [EliteFinds](https://github.com/mariajvieira/feup-ltw-EliteFinds) | EliteFinds is a PHP-based web application that serves as a marketplace for luxury second-hand goods, connecting buyers and sellers in an elegant and secure platform. |
-| [SVG to PNG Image Converter](https://github.com/mariajvieira/feup-prog)  | C++ project that implements a solution for converting SVG vector graphics into PNG images, utilizing object-oriented design to manage SVG elements and their transformations.|
-| [Super Mario Game](https://github.com/mariajvieira/feup-ldts-SuperMario) | A 2D Super Mario-inspired game developed in Java, featuring linked menus, player controls, collision detection, and interactive elements such as Mystery Blocks, monsters, and obstacles. The goal is to reach the flag while overcoming challenges. |
+| Project              | Description                                         | Date |
+|----------------------------|-----------------------------------------------------|-|
+| [Connectify](https://github.com/mariajvieira/feup-lbaw-connectify) | A social networking web application built with Laravel, designed to foster connections and interactions among users. The project features dynamic posts, user reactions, and an intuitive interface. | Winter 24/25 |
+| [Shortest Path Calculation](https://github.com/mariajvieira/feup-pfl-proj1) | Haskell project that implements algorithms for calculating the shortest path between cities in a roadmap, utilizing breadth-first search (BFS) and various data structures to efficiently find the shortest routes. | Winter 24/25 |
+| [Data Link Protocol](https://github.com/mariajvieira/feup-rcom-proj1) | C project that implements a data link layer protocol to enable reliable file transfer over an RS-232 serial connection. | Winter 24/25 |
+| [CleanItUP](https://github.com/mariajvieira/feup-esof-CleanItUP) | CleanItUP is a sustainability-focused application designed to promote eco-friendly habits through gamification, community engagement, and accessible recycling information | Sprint 23/24|
+| [Traveling Salesman Problem Solutions](https://github.com/mariajvieira/feup-da-proj2) | C++ project that implements algorithms for solving the Traveling Salesman Problem (TSP) in various shipping and delivery scenarios, utilizing both exact and heuristic approaches to find efficient routes for urban and ocean deliveries. | Sprint 23/24|
+| [Water Network Resource Optimization](https://github.com/mariajvieira/feup-da-proj1) | C++ implementation of a tool for analyzing and optimizing the allocation of resources in a water supply network in Portugal, using a greedy algorithm approach to solve maximum-flow problems. | Sprint 23/24|
+| [EliteFinds](https://github.com/mariajvieira/feup-ltw-EliteFinds) | EliteFinds is a PHP-based web application that serves as a marketplace for luxury second-hand goods, connecting buyers and sellers in an elegant and secure platform. | Sprint 23/24|
+| [SVG to PNG Image Converter](https://github.com/mariajvieira/feup-prog)  | C++ project that implements a solution for converting SVG vector graphics into PNG images, utilizing object-oriented design to manage SVG elements and their transformations.| Sprint 23/24|
+| [Super Mario Game](https://github.com/mariajvieira/feup-ldts-SuperMario) | A 2D Super Mario-inspired game developed in Java, featuring linked menus, player controls, collision detection, and interactive elements such as Mystery Blocks, monsters, and obstacles. The goal is to reach the flag while overcoming challenges. | Winter 23/24|
 
 
 
