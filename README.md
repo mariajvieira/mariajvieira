@@ -6,11 +6,18 @@
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariajvieira&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400&v=1"/>
 
 
-### 📄 My Projects
+### 📄 My Projects (Master)
+
+| Project              | Description                                         | Grade | Date |
+|----------------------------|-----------------------------------------------------|-|-|
+| [Testing Project](https://github.com/mariajvieira/feup-mesw-ttvs) | Lab project focused on building a systematic unit test suite and assessing its quality with JaCoCo coverage, PIT mutation testing, and test-smell analysis (reported ~9% smelliness) | 19.54/20| Winter 25/26 |
+
+
+### 📄 My Projects (Bachelor)
+
 
 | Project              | Description                                         | Date |
 |----------------------------|-----------------------------------------------------|-|
-| [Testing Project](https://github.com/mariajvieira/feup-mesw-ttvs) | Lab project focused on building a systematic unit test suite and assessing its quality with JaCoCo coverage, PIT mutation testing, and test-smell analysis (reported ~9% smelliness) | Winter 25/26 |
 | [Cake Sort Puzzle Game](https://github.com/mariajvieira/feup-ia-CakeSortPuzzle) |  Pygame-based puzzle game where players sort cake slices on plates to complete full cakes, featuring an MVC architecture, multiple levels, scoring, and AI search solvers (BFS/DFS/IDS/UCS).| Spring 24/25 |
 | [Bank Churn Dataset](https://github.com/mariajvieira/feup-ia-BankChurnDataset) | Bank churn prediction project benchmarking Logistic Regression, Random Forest, and Gradient Boosting for binary classification, with evaluation metrics, learning curves, and runtime comparison in a Jupyter notebook. | Spring 24/25 |
 | [Snake Game](https://github.com/mariajvieira/feup-lcom) |  Interactive Snake game for the FEUP LCOM/Minix environment, showcasing low-level device programming (timer, keyboard, mouse, and VBE graphics) with an interrupt-driven game loop, graphical UI, and multiple difficulty levels. | Spring 24/25 |
