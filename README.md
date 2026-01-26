@@ -13,6 +13,7 @@
 | [Testing Project](https://github.com/mariajvieira/feup-mesw-ttvs) | Lab project focused on building a systematic unit test suite and assessing its quality with JaCoCo coverage, PIT mutation testing, and test-smell analysis (reported ~9% smelliness) | 19.54/20| Winter 25/26 |
 | [GroceryPal](https://github.com/FEUP-MESW0002/lab-work-on-requirements-engineering-simulation-team-12/wiki) | 	Grocery Pal requirements-engineering simulation repo documenting the full RE process for a smart grocery shopping assistant, including vision & stakeholders, goals/scenarios, an SRS following the IEEE/standard SRS structure, use cases, and traceability across ~153 artifacts linked to GitHub issues. ​| 18.5/20| Winter 25/26 |
 | [UberRides](https://github.com/mariajvieira/feup-mesw-ppes) | Project specifying a ride-hailing platform (BPMN + UML + OCL/USE validation) covering the ride lifecycle: booking, dispatch, trip execution, payments, cancellations, ratings, tips, and lost items. ​| 17.9/20| Winter 25/26 |
+| [HomeMaestro](https://github.com/mariajvieira/feup-mesw-ads) | Smart home automation platform with backend + frontend and a simulator, supporting device discovery/connection, command execution, monitoring/logs, and a rules engine with external integrations (e.g., Discord). ​| 18.1/20| Winter 25/26 |
 
 
 ### 📄 My Projects (Bachelor)
